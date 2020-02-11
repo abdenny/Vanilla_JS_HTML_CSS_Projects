@@ -63,7 +63,7 @@ function checkPasswordsMatch(input1, input2) {
   }
 }
 
-// Get fieldname
+// Get the fieldname
 function getFieldName(input) {
   return input.id.charAt(0).toUpperCase() + input.id.slice(1);
 }
