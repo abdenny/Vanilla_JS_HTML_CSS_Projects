@@ -1,7 +1,7 @@
 # Javascript Projects 
 
 #### All projects in this repo were created only using HTML, CSS, and Javascript. 
-There is often great value in using the robust resources we have in front-end development like CSS frameworks (Bootstrap 4,  Tailwind, etc.), JS libraries and frameworks  (React, Angular & Vue). However, there is still great value in creating vanilla projects. It's essential to have in-depth knowledge of these keystone technologies to become a successful web developer. 
+We often take advantage of the robust resources we have in front-end development like CSS frameworks (Bootstrap 4,  Tailwind, etc.), JS libraries and frameworks  (React, Angular & Vue). However, there is still great value in creating vanilla projects. It's essential to have in-depth knowledge of these keystone technologies to become a successful web developer. 
 
 | Project       | Live Demo |
 | ------------- | ------------- |
